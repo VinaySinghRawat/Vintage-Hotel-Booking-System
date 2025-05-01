@@ -1,1 +1,1 @@
-# Vintage-Hotel-Management-System
+# Vintage-Hotel-Booking-System
