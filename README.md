@@ -11,7 +11,7 @@ A full-stack **Hotel Booking System** built with **Spring Boot** that supports t
 - 🏨 Admin can add/edit/delete hotels and bookings
 - 👤 Users can search hotels and make bookings
 - ✅ RESTful APIs with Spring Security
-- 🗃️ PostgreSQL (or MySQL) as the database
+- 🗃️ PostgreSQL as the database
 - 🌐 Frontend can be integrated separately (e.g., React/Thymeleaf)
 
 ---
@@ -23,7 +23,7 @@ A full-stack **Hotel Booking System** built with **Spring Boot** that supports t
 - Spring Security
 - Spring Data JPA
 - Amazon S3
-- PostgreSQL/MySQL
+- PostgreSQL
 - Maven
 
 ---
