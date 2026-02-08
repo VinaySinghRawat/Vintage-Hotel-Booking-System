@@ -1,6 +1,6 @@
 # Vintage-Hotel-Booking-System
 
-A full-stack **Hotel Booking System** built with **Spring Boot** that supports two user roles: **Admin** and **User**. Admins can manage hotels and bookings, while users can search and book hotels. The project uses **Amazon S3** for storing images securely.
+A full-stack **Hotel Booking System** built with monolythic architecture with **Spring Boot** and frontend with **React Technology** that supports two user roles: **Admin** and **User**. Admins can manage hotels and bookings, while users can search and book hotels. The project uses **Amazon S3** for storing images securely.
 
 ---
 
